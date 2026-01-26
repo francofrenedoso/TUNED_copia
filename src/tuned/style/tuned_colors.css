@@ -1,0 +1,95 @@
+.secondary_gradient {
+	background: linear-gradient(213.66deg, #7736e7 4.85%, #fff143 119.17%);
+}
+
+.terciary_gradient {
+	background: linear-gradient(213.66deg, #bce3f6 4.85%, #9f95f3 119.17%);
+}
+
+.perfomance_gradient {
+	background: linear-gradient(90deg,
+			#57b845 0%,
+			#98ed3a 22%,
+			#a5ee2f 25.99%,
+			#d1f30e 39.99%,
+			#e3f501 46.99%,
+			#ead600 56.99%,
+			#f2b600 68.99%,
+			#f6ab00 75.98%,
+			#f68500 82.98%,
+			#f66500 89.98%,
+			#f65200 95.98%,
+			#f64c01 99.98%);
+}
+
+.base_gradient {
+	background: linear-gradient(95.6deg, #7736e7 0.38%, #1d1f4a 65.28%, #4a2b99 105.41%);
+}
+
+.text_light {
+	color: #f6f1ff !important;
+}
+
+.text_dark {
+	color: #292929 !important;
+}
+
+/* primary purple in figma */
+.title_chat_highlight {
+	/* color: #7736e7 !important; */
+	color: #c1a4f3 !important;
+	letter-spacing: .5px;
+}
+
+
+.border_chat {
+	border-top: 2px solid #7736e7 !important;
+}
+
+.divider_card {
+	border-bottom: 2px solid #7736e7 !important;
+}
+
+.text_chat {
+	color: #292929 !important;
+}
+
+.primary_yellow {
+	color: #fff143 !important;
+}
+
+/* primary dark en figma */
+.primary_purple {
+	color: #1d1f4a !important;
+}
+
+.primary_purple_bg {
+	background: #1d1f4a !important;
+}
+
+.bg_light {
+	background: #f6f1ff !important;
+}
+
+.custom-scroll {
+	overflow-y: scroll;
+}
+
+.custom-scroll::-webkit-scrollbar {
+	width: 4px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+	background: rgba(59, 59, 59, 0.3);
+	border-radius: 10px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+	background: #adabff;
+	border-radius: 10px;
+	border: 3px solid #9fb4f0;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+	background: #9fb4f0
+}

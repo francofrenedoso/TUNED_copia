@@ -1,0 +1,115 @@
+[
+
+  {
+    "avatar": "J",
+    "title": "Jon",
+    "time": "Hace 2 segundos",
+    "comment": "¿Otra vez comiendo?",
+    "highlight": false,
+    "isImage": false
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Odie",
+    "time": "Hace 3 segundos",
+    "comment": "¡Guau guau!",
+    "highlight": false,
+    "isImage": true
+  },
+  {
+    "avatar": "L",
+    "title": "Liz",
+    "time": "Hace 4 segundos",
+    "comment": "¡Hola a todos!",
+    "highlight": true,
+    "isImage": false
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Nermal",
+    "time": "Hace 5 segundos",
+    "comment": "¡Soy el gato más lindo!",
+    "highlight": false,
+    "isImage": true
+  },
+  {
+    "avatar": "A",
+    "title": "Arlene",
+    "time": "Hace 6 segundos",
+    "comment": "¿Alguien quiere pizza?",
+    "highlight": true,
+    "isImage": false
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Doc Boy",
+    "time": "Hace 7 segundos",
+    "comment": "¡Garfield, deja de molestar a Jon!",
+    "highlight": false,
+    "isImage": true
+  },
+  {
+    "avatar": "B",
+    "title": "Binky",
+    "time": "Hace 8 segundos",
+    "comment": "¡Es hora del show!",
+    "highlight": true,
+    "isImage": false
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Irma",
+    "time": "Hace 9 segundos",
+    "comment": "¿Café para todos?",
+    "highlight": false,
+    "isImage": true
+  },
+  {
+    "avatar": "W",
+    "title": "Wade",
+    "time": "Hace 10 segundos",
+    "comment": "¡Tengo miedo del agua!",
+    "highlight": true,
+    "isImage": false
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Roy",
+    "time": "Hace 11 segundos",
+    "comment": "¡Buenos días, granja!",
+    "highlight": false,
+    "isImage": true
+  },
+  {
+    "avatar": "O",
+    "title": "Orson",
+    "time": "Hace 12 segundos",
+    "comment": "¡A leer libros!",
+    "highlight": true,
+    "isImage": false
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Bo",
+    "time": "Hace 13 segundos",
+    "comment": "¡Hora de bailar!",
+    "highlight": false,
+    "isImage": true
+  },
+  {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Sheldon",
+    "time": "Hace 14 segundos",
+    "comment": "¡Nunca salgo del cascarón!",
+    "highlight": true,
+    "isImage": true
+  },
+    {
+    "avatar": "tuned/nav_avatar.png",
+    "title": "Garfield",
+    "time": "Hace 1 segundo",
+    "comment": "Garfield ama la lasaña y odia los lunes.",
+    "highlight": true,
+    "isImage": true
+  }
+]
